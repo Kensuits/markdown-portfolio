@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of the matrix.](https://i.ytimg.com/vi/HWn85tjFMIQ/maxresdefault.jpg)
