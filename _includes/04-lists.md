@@ -1,1 +1,1 @@
-Replace this with a list of your favorite things.
+I like traveling, sports, gaming, and learning new things.
