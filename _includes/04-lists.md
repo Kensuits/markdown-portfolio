@@ -1,1 +1,4 @@
-I like traveling, sports, gaming, and learning new things.
+- Traveling
+- Sports
+- Gaming
+- Learning
